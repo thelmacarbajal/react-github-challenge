@@ -26,6 +26,7 @@ class FormInput extends Component {
         onChange={this.onChangeValue.bind(this)}
       />
     )
+    
   }
 }
 

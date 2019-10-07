@@ -37,16 +37,16 @@ class Navbar extends Component {
             <NavbarNavItem active>
               <NavbarNavLink
                 to="/"
-                text="All posts"
-                label="go to home page with all posts"
+                text="Todos Repos"
+                label="Muestra todos los respositorios"
               />
             </NavbarNavItem>
 
             <NavbarNavItem>
               <NavbarNavLink
-                to="/new-post"
-                text="Create post"
-                label="go to create post page"
+                to="/nuevo"
+                text="Nuevo repo"
+                label="Va a la página de Nuevo Repositorio"
               />
             </NavbarNavItem>
           </NavbarNav>
